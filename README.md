@@ -1,4 +1,5 @@
 An Android app written in Kotlin, using Jetpack Compose for the UI.
+Runs on Android 10+.
 
 Calculator:
 -Can calculate simple mathematical expressions (max. 24 characters)
